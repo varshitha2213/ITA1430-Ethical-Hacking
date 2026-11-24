@@ -1,0 +1,14 @@
+Experiment 17: Windows OS Commands Execution
+Aim:
+To study common Windows networking commands.
+Traceroute
+tracert google.com
+Ping
+ping google.com
+IP Configuration
+ipconfig
+ipconfig /all
+Netstat
+netstat -an
+Result:
+Successfully executed Windows networking commands.

@@ -1,0 +1,36 @@
+Experiment 25: Shell Programming
+(i) Read a Number and Find Its Square
+Program:
+#!/bin/bash
+echo "Enter a number:"
+read n
+square=$((n*n))
+echo "Square = $square"
+Output:
+Enter a number: 5
+Square = 25
+Result:
+Successfully calculated square of a number.
+________________________________________
+(ii) Find the Biggest of Three Numbers
+Program:
+#!/bin/bash
+
+echo "Enter three numbers:"
+read a b c
+
+if [ $a -ge $b ] && [ $a -ge $c ]
+then
+    echo "$a is largest"
+elif [ $b -ge $a ] && [ $b -ge $c ]
+then
+    echo "$b is largest"
+else
+    echo "$c is largest"
+fi
+Output:
+Enter three numbers:
+10 25 15
+25 is largest
+Result:
+Successfully identified the largest among three numbers.

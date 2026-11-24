@@ -1,0 +1,10 @@
+Experiment 16: Reconnaissance Using Google and Whois
+Aim:
+To gather domain information.
+Commands:
+whois example.com
+Google Dork Examples:
+site:example.com
+filetype:pdf site:example.com
+Result:
+Successfully gathered reconnaissance information.

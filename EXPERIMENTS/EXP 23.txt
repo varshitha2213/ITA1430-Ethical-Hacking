@@ -1,0 +1,9 @@
+Experiment 23: Port Scanning Tools (Extended)
+Aim:
+To perform advanced port scanning.
+Commands:
+nmap -sV target-ip
+nmap -A target-ip
+nmap -p 1-65535 target-ip
+Result:
+Successfully identified services and ports.

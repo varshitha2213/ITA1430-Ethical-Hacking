@@ -1,0 +1,11 @@
+Experiment 15: Information Gathering Using theHarvester
+Aim: To gather publicly available information about a domain.
+Theory / Explanation: theHarvester collects publicly available information such as email addresses, hosts, and subdomains from supported sources. -d specifies the domain and -b selects the data source. Respect privacy and scope restrictions.
+Commands / Program:
+•	theHarvester -d example.com -b google
+Procedure:
+61.	Open the required terminal or application.
+62.	Enter the command(s) or program shown above.
+63.	Observe the output and verify the result.
+64.	Save the work or record the observation, if required.
+Result: Successfully demonstrated information gathering for the example domain.

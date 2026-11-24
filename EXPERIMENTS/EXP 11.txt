@@ -1,0 +1,11 @@
+Experiment 11(i): Aggressive Speed Scan
+Aim: To perform an aggressive speed scan using Nmap.
+Theory / Explanation: -T4 selects the aggressive timing template. It is faster but may generate more network traffic and can be less reliable on slow or unstable networks. Scan only an authorized target.
+Commands / Program:
+•	nmap -T4 192.168.1.1
+Procedure:
+41.	Open the required terminal or application.
+42.	Enter the command(s) or program shown above.
+43.	Observe the output and verify the result.
+44.	Save the work or record the observation, if required.
+Result: Successfully demonstrated an aggressive Nmap timing scan.

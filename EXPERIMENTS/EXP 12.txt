@@ -1,0 +1,12 @@
+Experiment 12: Port Scanning Tools
+Aim: To identify open ports on a target system.
+Theory / Explanation: Nmap performs a default scan of common ports. -sS performs a TCP SYN scan, which sends SYN probes and interprets responses to identify port states. Use only on systems for which permission has been granted.
+Commands / Program:
+•	nmap 192.168.1.1
+•	nmap -sS 192.168.1.1
+Procedure:
+49.	Open the required terminal or application.
+50.	Enter the command(s) or program shown above.
+51.	Observe the output and verify the result.
+52.	Save the work or record the observation, if required.
+Result: Open ports and running services were identified in the authorized test scan.

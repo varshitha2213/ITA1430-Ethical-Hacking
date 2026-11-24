@@ -1,0 +1,21 @@
+Experiment 24: Nmap Timing & Performance
+Aim:
+To compare different timing templates.
+Commands:
+nmap -T0 target-ip
+nmap -T1 target-ip
+nmap -T2 target-ip
+nmap -T3 target-ip
+nmap -T4 target-ip
+nmap -T5 target-ip
+Observation Table
+Timing	Description
+T0	Paranoid
+T1	Sneaky
+T2	Polite
+T3	Normal
+T4	Aggressive
+T5	Insane
+Result:
+Successfully studied Nmap timing templates.
+

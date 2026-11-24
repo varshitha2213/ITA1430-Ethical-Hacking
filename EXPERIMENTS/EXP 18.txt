@@ -1,0 +1,7 @@
+Experiment 18: Vulnerability Analysis Using Nikto
+Aim:
+To identify web server vulnerabilities.
+Command:
+nikto -h http://target-ip
+Result:
+Successfully detected web server vulnerabilities.

@@ -1,0 +1,10 @@
+Experiment 22: Packet Analyzer Tool
+Aim:
+To analyze network packets.
+Tools:
+•	Wireshark 
+•	Tcpdump 
+Commands:
+tcpdump -i eth0
+Result:
+Successfully analyzed packets.
